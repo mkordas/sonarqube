@@ -275,7 +275,7 @@
           <!-- not thread safe -->
           <groupId>org.codehaus.sonar</groupId>
           <artifactId>sonar-dev-maven-plugin</artifactId>
-          <version>1.7</version>
+          <version>1.8</version>
         </plugin>
         <plugin>
           <groupId>org.codehaus.sonar</groupId>
